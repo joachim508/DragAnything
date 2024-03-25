@@ -67,7 +67,7 @@ six==1.16.0
 sympy==1.12
 tokenizers==0.15.0
 torch==2.0.1
-torchaudio==2.0.1
+torchaudio
 torchvision==0.15.1
 tqdm==4.66.1
 transformers==4.36.2
