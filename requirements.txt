@@ -79,3 +79,4 @@ xformers==0.0.20
 yarg==0.1.9
 zipp==3.17.0
 colorlog
+moviepy
